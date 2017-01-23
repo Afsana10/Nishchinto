@@ -1,0 +1,1 @@
+Using this android app anyone can save any location , where his phone remain in vibrate mode and after leaving the place the phone will autometically turns into normal mode. User can also get some locations from website.
